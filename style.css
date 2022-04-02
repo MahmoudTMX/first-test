@@ -1,13 +1,14 @@
-#container{
+li{
     width:80%;
     margin: 0 auto;    
     text-align: center;
 }
+li
 #text{
     font-size: 28px;
 
 }
-zar{
+li{
     display: inline-block;padding: 10px 25px;
     margin: bottom 30px;
     font-size: 24px; 
